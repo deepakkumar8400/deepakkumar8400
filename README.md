@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumar8400&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumar8400" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakkumar8400" alt="deepakkumar8400" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/x.com/deepakk31594341" target="blank"><img src="https://img.shields.io/twitter/follow/x.com/deepakk31594341?logo=twitter&style=for-the-badge" alt="x.com/deepakk31594341" /></a> </p>
