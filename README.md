@@ -1,37 +1,3 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there, I'm Deepak Kumar!
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Code+Enthusiast;Building+Digital+Solutions;Always+Learning+New+Tech" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
-javascript
-const deepak = {
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "Python", "Java", "HTML", "CSS"],
-    technologies: {
-        frontEnd: ["React", "Vue.js", "HTML5", "CSS3", "JavaScript"],
-        backEnd: ["Node.js", "Python", "Java"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        tools: ["Git", "Docker", "VS Code", "Postman"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
-
-
-## 🎯 What I Do
-
-🔭 I'm currently working on **cutting-edge web applications**  
-🌱 I'm currently learning **Advanced React Patterns & Cloud Technologies**  
-👯 I'm looking to collaborate on **open source projects**  
-💬 Ask me about **React, Node.js, Python, or anything tech-related**  
-📫 How to reach me: **deepakkumar8400@example.com**  
-⚡ Fun fact: **I can code for hours with just coffee and good music!**
-
-## 🛠️ Tech Stack & Tools
 <div align="center">
   
 # 💫 DEEPAK KUMAR
