@@ -16,7 +16,7 @@
 
 ```javascript
 const deepakKumar = {
-    title: "Senior Full Stack Developer",
+    title: "Full Stack Developer",
     location: "India 🇮🇳",
     experience: "3+ Years",
     
@@ -26,7 +26,6 @@ const deepakKumar = {
         frontend: ["React.js", "Vue.js", "Next.js", "Redux", "Tailwind CSS"],
         backend: ["Node.js", "Express.js", "RESTful APIs", "GraphQL", "JWT"],
         databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-        cloud: ["AWS", "Heroku", "Vercel", "Netlify"],
         tools: ["Git", "Docker", "Postman", "VS Code", "Figma"]
     },
     
@@ -57,7 +56,7 @@ const deepakKumar = {
 🌱 **Learning:** Advanced System Design, Microservices Architecture & Cloud Technologies  
 👯 **Open to:** Collaborating on innovative open-source projects  
 💬 **Ask me about:** React, Node.js, Full-Stack Development, Problem Solving  
-📫 **Reach me:** [deepakkumar8400@gmail.com](mailto:deepakkumar8400@gmail.com)  
+📫 **Reach me:** [dk8400663713@gmail.com](mailto:dk8400663713@gmail.com)  
 ⚡ **Fun fact:** I can debug code faster than I can make coffee! ☕
 
 </div>
@@ -92,12 +91,6 @@ const deepakKumar = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -169,8 +162,6 @@ const deepakKumar = {
 |----------|----------------|---------|-----------------|
 | 🟠 **LeetCode** | 400+ | Top 15% | Advanced |
 | 🟢 **GeeksforGeeks** | 200+ | 5⭐ Rating | Expert |
-| 🔵 **HackerRank** | 150+ | Gold Badge | Proficient |
-| 🟡 **Codechef** | 100+ | 4⭐ Rating | Advanced |
 
 ### 🧠 **Algorithm Mastery**
 ```
@@ -191,12 +182,6 @@ const deepakKumar = {
 - Built 3 production-ready applications serving 1000+ users
 - Reduced application load times by 60% through optimization
 - Mentored 5+ junior developers in modern web technologies
-
-**👨‍💻 Software Development Intern** | *Tech Startup* | `Jun 2024 - Sep 2024`
-- Collaborated in agile team of 5 developers
-- Improved user experience by 40% through advanced features
-- Maintained 98% code quality standards
-
 ---
 
 ## 🎓 **Education & Certifications**
@@ -235,7 +220,7 @@ const deepakKumar = {
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deepakk31594341)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakkumar8400)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deepwebsite.onrender.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakkumar8400@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakkumar8400663713@gmail.com)
 
 </div>
 
@@ -248,14 +233,6 @@ const deepakKumar = {
 </div>
 
 ---
-
-## 🎵 **Currently Vibing To**
-
-<div align="center">
-  
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/your-username)
-
-</div>
 
 ---
 
