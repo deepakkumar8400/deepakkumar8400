@@ -223,19 +223,3 @@ const deepakKumar = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakkumar8400&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 </div>
-
----
-
-## 💡 **Daily Dev Quote**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
-</div>
-
----
-
-**Made with ❤️ and lots of ☕ by Deepak Kumar**
-
-*Last updated: August 2025*
-
-</div>
