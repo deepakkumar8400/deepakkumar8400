@@ -226,14 +226,11 @@ const deepakKumar = {
 
 ---
 
+## 💡 **Daily Dev Quote**
 
 <div align="center">
-
-### 🚀 **"Building the future, one line of code at a time"**
-
-**⭐ If you find my work interesting, don't forget to star my repositories!**
-
-![Snake animation](https://github.com/deepakkumar8400/deepakkumar8400/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
+</div>
 
 ---
 
