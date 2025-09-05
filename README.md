@@ -172,7 +172,7 @@ const deepakKumar = {
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Deep_9131_solution?ext=contest)
 
-![GFG Stats](https://github.com/<your-username>/<your-repo>/blob/main/gfg_stats.png?raw=true)
+![GFG Problems Solved](https://img.shields.io/badge/Problems%20Solved-164-brightgreen)
 
 ### 💪 **Competitive Programming Stats**
 
