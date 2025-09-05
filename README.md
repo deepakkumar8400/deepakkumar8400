@@ -168,9 +168,11 @@ const deepakKumar = {
 ## 🎯 **Problem Solving Excellence**
 
 <div align="center">
-## 🚀 LeetCode & Problem Solving Stats  
+## 🚀 LeetCode & GeeksforGeeks Problem Solving Stats  
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Deep_9131_solution?ext=contest)
+
+![GFG Stats](https://github.com/<your-username>/<your-repo>/blob/main/gfg_stats.png?raw=true)
 
 ### 💪 **Competitive Programming Stats**
 
