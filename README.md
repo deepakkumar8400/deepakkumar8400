@@ -172,8 +172,6 @@ const deepakKumar = {
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Deep_9131_solution?ext=contest)
 
-![GFG Problems Solved](https://img.shields.io/badge/Problems%20Solved-164-brightgreen)
-
 ### 💪 **Competitive Programming Stats**
 
 | Platform | Problems Solved | Ranking | Expertise Level |
