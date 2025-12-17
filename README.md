@@ -1,130 +1,210 @@
-# Deepak Kumar
-**Software Engineer | Full-Stack Developer | Computer Science Student**
+# Hi there, I'm Deepak Kumar 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin)](https://https://www.linkedin.com/in/deepakkumar8400/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:dk8400663713@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-orange?style=flat&logo=leetcode)](https://leetcode.com/u/https://leetcode.com/u/deepakkumar8400/)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakkumar8400/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/deepakkumar8400/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dk8400663713@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakkumar8400)
 
----
+</div>
 
-## Professional Summary
-
-Results-driven Computer Science student with expertise in full-stack web development and strong problem-solving capabilities. Proficient in the MERN stack with hands-on experience in building scalable web applications and designing RESTful APIs. Demonstrated technical proficiency through 600+ solved coding challenges and a 1600+ competitive programming rating.
-
-**Currently seeking:** Software Development Engineer opportunities to contribute to innovative technology solutions.
-
----
-
-## Technical Expertise
-
-**Programming Languages**
-- Java, JavaScript
-
-**Frontend Development**
-- React.js, HTML5, CSS3, Responsive Design
-
-**Backend Development**  
-- Node.js, Express.js, RESTful API Design
-
-**Database Technologies**
-- MongoDB, MySQL, Database Design & Optimization
-
-**Core Computer Science**
-- Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems
-
-**Development Tools**
-- Git, GitHub, Postman, VS Code
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;MERN+Stack+Developer;600%2B+Problems+Solved;Competitive+Programmer" alt="Typing SVG" />
+</div>
 
 ---
 
-## Professional Projects
+## 🚀 About Me
 
-### Healthcare Appointment Management System
-**Technology Stack:** MongoDB, Express.js, React.js, Node.js, JWT Authentication
+I'm a passionate **Full-Stack Software Engineer** specializing in the **MERN Stack** with a proven track record of building scalable web applications. My expertise lies in creating end-to-end solutions—from designing robust backend APIs to crafting responsive, user-friendly interfaces.
 
-**Key Contributions:**
-- Architected and developed a comprehensive healthcare platform enabling efficient appointment scheduling for patients
-- Implemented role-based authentication system supporting patient, doctor, and administrator access levels
-- Built doctor dashboard with appointment tracking, earnings analytics, and profile management capabilities
-- Designed admin panel for comprehensive appointment oversight and doctor profile management
-- Integrated secure JWT-based authentication and authorization mechanisms
-
-### Job Portal Platform
-**Technology Stack:** MERN Stack, JWT Authentication
-
-**Key Contributions:**
-- Developed end-to-end job portal application with distinct user roles for candidates and employers
-- Implemented intelligent job matching algorithms based on candidate profiles and preferences
-- Created employer dashboard for job posting management and application tracking
-- Built comprehensive admin panel with platform analytics and user management capabilities
-- Integrated resume upload functionality with profile optimization features
+- 🔭 Currently building innovative web applications using **React**, **Node.js**, and **MongoDB**
+- 🌱 Continuously learning and exploring new technologies in web development
+- 💡 Solved **600+ coding problems** on LeetCode and GeeksforGeeks
+- 🏆 Competitive Programming Rating: **1600+**
+- 🎯 Looking for **Software Development Engineer** opportunities
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Data Structures & Algorithms**
 
 ---
 
-## Technical Achievements
+## 🛠️ Tech Stack
 
-### Competitive Programming
-- **600+ Problems Solved** across LeetCode and GeeksforGeeks platforms
-- **Contest Rating:** 1600+ demonstrating consistent problem-solving performance
-- **Core Competencies:** Advanced data structures, algorithm optimization, time complexity analysis
+<div align="center">
 
-### GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakkumar8400&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkumar8400&layout=compact&theme=default&hide_border=true)
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### LeetCode Performance
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Deep_9131_solution?theme=light&font=source_code_pro&ext=contest)](https://leetcode.com/u/deepakkumar8400/)
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## Education
+## 💼 Featured Projects
+
+### 🏥 Healthcare Appointment Management System
+**Full-Stack MERN Application**
+
+A comprehensive healthcare platform that streamlines appointment scheduling between patients and doctors with an intelligent management system.
+
+**🔑 Key Features:**
+- 🔐 Role-based authentication (Patient, Doctor, Admin) with JWT
+- 📅 Real-time appointment booking and management
+- 👨‍⚕️ Doctor dashboard with earnings analytics
+- 🎛️ Admin panel for comprehensive oversight
+- 📱 Fully responsive design across all devices
+
+**💻 Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `JWT` `REST APIs`
+
+---
+
+### 💼 Job Portal Platform
+**Career Matching Platform**
+
+End-to-end job marketplace connecting candidates with employers through intelligent matching algorithms.
+
+**🔑 Key Features:**
+- 🤝 Dual interface for job seekers and employers
+- 🎯 Smart job recommendation engine
+- 📄 Resume upload and profile management
+- 📊 Application tracking system
+- 🔍 Advanced search and filtering
+
+**💻 Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `Multer` `JWT`
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakkumar8400&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar8400&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkumar8400&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/deepakkumar8400?theme=dark&font=source_code_pro&ext=contest)](https://leetcode.com/u/deepakkumar8400/)
+
+</div>
+
+**Achievements:**
+- ✅ **600+ Problems Solved** across LeetCode and GeeksforGeeks
+- 🏅 **Contest Rating: 1600+**
+- 💪 Strong expertise in Dynamic Programming, Graph Theory, Trees, and Algorithm Optimization
+- 📈 Consistent participant in weekly coding contests
+
+---
+
+## 🎓 Education
 
 **Bachelor of Technology - Computer Science Engineering**  
-Noida Institute of Engineering and Technology (NIET)  
-**CGPA:** 7.6/10.0
+📍 Noida Institute of Engineering and Technology (NIET)  
+📊 CGPA: **7.6/10.0**
 
-**Relevant Coursework:**
-Data Structures & Algorithms, Database Management Systems, Software Engineering, Operating Systems, Computer Networks, Web Technologies
-
----
-
-## Professional Certifications
-
-- **ReactJS Professional Certification** - Infosys Springboard
-- **Professional Communication Skills** - Coursera
-- **HTML, CSS, and JavaScript for Web Developers** - Coursera
+**Relevant Coursework:**  
+Data Structures & Algorithms • Database Management Systems • Software Engineering • Operating Systems • Computer Networks • Web Technologies
 
 ---
 
-## Core Competencies
+## 📜 Certifications
 
-**Software Development**
-- Full-stack web application development
-- RESTful API design and implementation  
-- Database schema design and optimization
-- User authentication and authorization systems
-
-**Problem Solving**
-- Algorithm design and analysis
-- Data structure optimization
-- Performance tuning and debugging
-- Code review and quality assurance
-
-**Professional Skills**
-- Agile development methodologies
-- Version control with Git
-- Technical documentation
-- Cross-functional collaboration
+- ✅ **ReactJS Professional Development** - Infosys Springboard
+- ✅ **HTML, CSS, and JavaScript for Web Developers** - Coursera
+- ✅ **Professional Communication Skills** - Coursera
 
 ---
 
-## Contact Information
+## 🎯 Core Competencies
 
-**Email:** dk8400663713@gmail.com  
-**LinkedIn:** [linkedin.com/in/deepak-kumar213243270](https://www.linkedin.com/in/deepakkumar8400/)  
-**GitHub:** [github.com/deepakkumar8400](https://github.com/deepakkumar8400)  
-**LeetCode:** [leetcode.com/u/Deep_9131_solution](https://leetcode.com/u/deepakkumar8400/)
+```javascript
+const deepak = {
+    code: ["JavaScript", "Java", "HTML", "CSS"],
+    technologies: {
+        frontEnd: {
+            js: ["React.js"],
+            css: ["Responsive Design"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express.js"],
+        },
+        databases: ["MongoDB", "MySQL"],
+    },
+    currentFocus: "Building scalable full-stack applications",
+    funFact: "I debug with console.log() and I'm proud of it! 😄"
+};
+```
+
+**Development Expertise:**
+- ✨ Full-stack web application development
+- 🔌 RESTful API design and implementation
+- 🗄️ Database schema design and optimization
+- 🔒 Authentication and authorization systems
+- 📱 Responsive and accessible UI development
+
+**Problem-Solving Skills:**
+- 🧩 Advanced data structures and algorithms
+- ⚡ Performance optimization techniques
+- 🐛 Debugging complex applications
+- 📈 Time and space complexity analysis
 
 ---
 
-*Available for full-time software development positions. Open to discussing opportunities in web development, backend engineering, and full-stack development roles.*
+## 📫 Let's Connect!
+
+I'm always excited to collaborate on interesting projects or discuss opportunities in software development!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakkumar8400/)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dk8400663713@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/deepakkumar8400/)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 Open to Opportunities
+
+**Software Development Engineer Positions** | **Full-Stack Roles** | **Backend Engineering**
+
+*Available for full-time positions • Open to relocation • Ready to start immediately*
+
+---
+
+⭐️ From [deepakkumar8400](https://github.com/deepakkumar8400)
+
+![Profile Views](https://komarev.com/ghpvc/?username=deepakkumar8400&color=blueviolet&style=for-the-badge)
+
+</div>
